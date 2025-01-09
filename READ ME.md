@@ -1,8 +1,1 @@
-package main
-
-import "fmt"
-
-func main() {
-	a := "Добавил файл"
-	fmt.Println(a)
-}
+#Добавил в репозиторий First-project свой превый README файл
